@@ -1,4 +1,5 @@
-# udemy_homeworks
+# Java (Джава) для начинающих: с нуля до сертификата Oracle
+
 https://www.udemy.com/course/java-oca-oracle
 
 HW # 1
